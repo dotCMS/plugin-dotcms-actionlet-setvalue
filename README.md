@@ -1,4 +1,4 @@
-plugin-dotcms-actionlet-setvalue 
+Set Value Actionlet
 =====================
 
 This plugin provides a Workflow Actionlet that can set a value on the contentlet that has been passed in before the contentlet is persisted.
